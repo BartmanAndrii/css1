@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+p {
+    border: 1px solid blue;
+}
+
+#chosen {
+    background-color:yellow;
+}
+underline{
+    text-decoration: underline;
+}
+h1, p {
+    font-family: sans-serif;
+}
